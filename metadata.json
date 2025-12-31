@@ -1,0 +1,8 @@
+{
+  "name": "SmartCart AI",
+  "description": "An intelligent grocery shopping companion that helps you find the best deals, compare supermarket prices, and generate healthy recipes from on-sale items.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
